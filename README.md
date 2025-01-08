@@ -39,13 +39,13 @@ To view the project locally, you can either open the project files in your code 
 
 #### Part 2
 
-- [ ] Navigate to the Assignment Page
-- [ ] Read the assignment overview
-- [ ] In `assignment.js`:
-    - [ ] Create a variable named `book` that cannot be reassigned. Set the value to your favorite book.
-    - [ ] Create a variable named `activity` that can be reassigned. Set the value to your favorite activity.
-    - [ ] Update the function `updateActivitySentence()`.
-    - [ ] Update the function `render()`.
+- [x] Navigate to the Assignment Page
+- [x] Read the assignment overview
+- [x] In `assignment.js`:
+    - [x] Create a variable named `book` that cannot be reassigned. Set the value to your favorite book.
+    - [x] Create a variable named `activity` that can be reassigned. Set the value to your favorite activity.
+    - [x] Update the function `updateActivitySentence()`.
+    - [x] Update the function `render()`.
 
 
 ### Tips
